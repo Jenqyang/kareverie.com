@@ -12,7 +12,8 @@ export const metadata: Metadata = {
     description:
       "Bringing beautiful visual and software experiences to people.",
     type: "website",
-    url: "https://kareverie.com/og.png",
+    url: "https://kareverie.com",
+    images: ["https://kareverie.com/og.png"],
     siteName: "Kareverie",
   },
   twitter: {

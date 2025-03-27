@@ -15,6 +15,9 @@ export default function HomePage() {
             target="_blank"
           >
             <h3 className="text-2xl font-bold">Twitter →</h3>
+            <div className="text-lg">
+              Follow me on Twitter for updates and insights.
+            </div>
           </Link>
           <Link
             className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
@@ -22,6 +25,9 @@ export default function HomePage() {
             target="_blank"
           >
             <h3 className="text-2xl font-bold">Email →</h3>
+            <div className="text-lg">
+              Send me an email for questions or inquiries.
+            </div>
           </Link>
           <Link
             className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
@@ -29,6 +35,9 @@ export default function HomePage() {
             target="_blank"
           >
             <h3 className="text-2xl font-bold">GitHub →</h3>
+            <div className="text-lg">
+              Check out my GitHub for code, projects, and more.
+            </div>
           </Link>
         </div>
       </div>
